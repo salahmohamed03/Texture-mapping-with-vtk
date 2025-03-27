@@ -1,4 +1,4 @@
 # Texture-mapping-with-vtk
 simple texture mapping tool to set texture to a surface using spherical projection and vtk
 
-![image](https://github.com/user-attachments/assets/cd70445e-03f1-4339-906d-7ab3f51cf238)
+https://github.com/user-attachments/assets/a14475ed-fb05-4adf-9604-c1e489ca3f0e
